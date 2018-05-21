@@ -1,2 +1,4 @@
-Git is a version control system.
+﻿Git is a version control system.
 Git is free software.
+儿子,儿子,我是你爸爸!
+我日是你个娘
